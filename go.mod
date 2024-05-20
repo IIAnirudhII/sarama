@@ -1,4 +1,4 @@
-module github.com/IBM/sarama
+module github.com/shopify/sarama
 
 go 1.19
 
