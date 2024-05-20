@@ -1,4 +1,4 @@
-module github.com/iianirudhii/sarama
+module github.com/IIanirudhII/sarama
 
 go 1.12
 
